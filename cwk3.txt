@@ -1,0 +1,20 @@
+CONFLICTS OF INTEREST BETWEEN STAKEHOLDERS:
+-app developers and consumers
+	vs
+-apple
+
+CONFLICTS:
+-cost
+-security
+-competition of app stores (needed to push for further innovation)
+
+STAKES OF EACH STAKEHOLDER:
+App developers:
+-want better margins, security and platforms with good exposure
+
+Consumers:
+-want good security and better value products
+
+Apple:
+-want money$$$$
+-dont want competition

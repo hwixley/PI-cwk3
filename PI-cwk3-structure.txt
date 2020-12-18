@@ -1,0 +1,51 @@
+AGREEMENT: (talk about the varying terms app devs must agree to)
+-apple can change in-app purchases tax to any amount at any point (volatile environment)
+-developers not allowed to issue software on different platforms
+-developers must pay apple tax for in-app purchases
+
+
+BREACH: (talk about how epic breached this agreement)
+-epic added a different payment option for a cheaper price
+
+
+BEHAVIOUR: (talk about how epic and apple behaved after this breach in agreement)
+-apple took app down
+-fortnite fired the 198-fortnite advert accusing apple as a monopoly
+
+
+INTERESTS: (talk about the best interests for each stakeholder) **
+
+Apple&Google
+-Get more revenue
+-Corner their markets by making all their users to use this single service
+
+Consumers
+-Get better value products (cheaper and more efficient)
+-Good download security
+
+App developers
+-Better margins
+-Good platform security
+-Good payment processing (can be personally implemented or utilize Apple's payment)
+-Platforms with good exposure
+
+
+CONFLICTS (talk about the conflicts stakeholders face for the different outcomes of the various lawsuit terms)
+
+1)ios App store competition
+
+apple
+-app store competition
+-less revenue
+
+2)ios in-app purchases tax reduction
+
+apple
+-less revenue
+
+3)allowing varying payment processing methods (allowing the consumer to choose)
+
+
+CONCLUSION (sum up the optimal outcome to cater for all stakeholders)
+
+**Talk about how the best interests drove the professionals to do this lawsuit. Talk about changes already happened and how markets are regulated.
