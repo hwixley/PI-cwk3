@@ -1,2 +1,2 @@
 # PI-coursework 3
-Case study on legal case between Epic Games and Apple/Google.
+Wiki case study on the conflicts of interest prevalent in the legal case between Epic Games and Apple/Google.
